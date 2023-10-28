@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.kav.infinity_mob.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
